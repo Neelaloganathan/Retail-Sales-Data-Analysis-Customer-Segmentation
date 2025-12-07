@@ -1,0 +1,17 @@
+SQL Questions for RetailSales.
+
+1. Retrieve all orders where `Product Category` is `'Electronics'` and `Quantity` > 2.
+
+2. Find the total revenue (`Total Amount`) generated from each `Product Category`.
+
+3. Count the number of customers in each `City`.
+
+4. Create a new column `HighValueOrder` that shows `'Yes'` if `Total Amount` > 5000, otherwise `'No'`.
+
+5. Show the top 10 orders with the highest `Total Amount`.
+
+6. Retrieve all orders made in **November 2025**.
+
+7. Find the average `Rating` and total `Discount` given for each `Customer Segment`.
+
+8. Count how many orders were made with each `Payment Method` and order by the most used method.
